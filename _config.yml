@@ -20,10 +20,10 @@ social:
 #       link: "https://twitter.com/agusmakmun6"
     - icon: fa-linkedin
       link: "https://www.linkedin.com/in/bbudescu/"
-#     - icon: fa-stack-exchange
-#       link: "#"
     - icon: fa-github
       link: "https://github.com/bbudescu"
+    - icon: fa-stack-exchange
+      link: "https://stackexchange.com/users/2850010/bbudescu"
 
 # share:
 #   twitter_username: agusmakmun6
