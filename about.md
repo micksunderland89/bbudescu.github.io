@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I am freelance developer. Currently doing more in backend, focused in Python and Django.
+I am a freelance machine learning and computer vision engineer. I help companies big and small explore the way in which computers can understand things and help people.
 
-email: agus[at]python.web.id
+email: bbudescu[at]iddo.ro
